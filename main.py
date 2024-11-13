@@ -39,7 +39,7 @@ def find_key(encrypted_message: str) -> None:
 
 
 if __name__ == "__main__":
-    # Зашифрованное сообщение Антона
+    # Зашифрованное сообщение Антона))0)
     encrypted_note = "o3zR v..D0?yRA0R8FR8v47w0ER4.R1WdC!sLF5D"
 
     # Поиск ключа
